@@ -4,10 +4,10 @@
 </div> 
 
 ## About Me
-- 🌍 From Izmir, Turkey
+- 🌍 From Izmir, Turkey 🇹🇷
 - 💻 Pursuing a BDMA (Big Data Management and Analytics) Erasmus Mundus Joint Master's Program
-- 🎓 Studied at Université libre de Bruxelles (ULB) and Universitat Politècnica de Catalunya (UPC)
-- 🇮🇹 Currently studying at Università degli studi di Padova in Italy
+- 🎓 Studied at Université libre de Bruxelles (ULB) 🇧🇪 and Universitat Politècnica de Catalunya (UPC) 🇪🇸
+- 🇮🇹 Currently studying at Università degli studi di Padova in Italy 🇮🇹
 - 📊 Specializing in Statistics and Deep Learning
 - 🏃‍♀️ I love running, dancing, and vlogging -> <a href="https://www.youtube.com/@ranaislek" target="_blank">Click here to check my YouTube Channel!</a>
 
@@ -21,7 +21,8 @@
 - [Bachelor's Thesis: Bigger Fish](https://github.com/ranaislek/BiggerFish-Bachelors-Thesis)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - 📧 Email: islekrana@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo.svg" width="20px" /> LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">yourlinkedin</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20px" /> Instagram: <a href="https://www.instagram.com/ranaislek/" target="_blank">ranaislek</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20px" /> YouTube: <a href="https://www.youtube.com/@ranaislek" target="_blank">ranaislek</a>
+
