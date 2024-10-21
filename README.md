@@ -4,10 +4,11 @@
 </div> 
 
 ## About Me
-- 🌍 From Izmir, Turkey 🇹🇷 🇧🇪 🇪🇸 🇮🇹
+- 🌍 From Izmir, Turkey
+- ✨ Bachelor's Degree in Computer Science and Engineering from Sabancı University, with a minor in Decision and Behavior
 - 💻 Pursuing a BDMA (Big Data Management and Analytics) Erasmus Mundus Joint Master's Program
-- 🎓 Studied at Université libre de Bruxelles (ULB) 🇧🇪 and Universitat Politècnica de Catalunya (UPC) 🇪🇸
-- 🇮🇹 Currently studying at Università degli studi di Padova in Italy 🇮🇹
+- 🎓 Studied at Université libre de Bruxelles (ULB, Belgium) and Universitat Politècnica de Catalunya (UPC, Spain)
+- 📚 Currently studying at Università degli studi di Padova in Italy
 - 📊 Specializing in Statistics and Deep Learning
 - 🏃‍♀️ I love running, dancing, and vlogging -> <a href="https://www.youtube.com/@ranaislek" target="_blank">Click here to check my YouTube Channel!</a>
 
@@ -16,7 +17,7 @@
 - Machine Learning, Deep Learning, Data Analysis
 - PostgreSQL, TensorFlow, PyTorch
 
-## Projects
+## Project Highlights
 - [Startup Project: Scholaria](https://github.com/ranaislek/Scholaria-Startup)
 - [Bachelor's Thesis: Bigger Fish](https://github.com/ranaislek/BiggerFish-Bachelors-Thesis)
 
