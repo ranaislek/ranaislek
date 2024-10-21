@@ -9,7 +9,7 @@
 - 🎓 Studied at Université libre de Bruxelles (ULB) and Universitat Politècnica de Catalunya (UPC)
 - 🇮🇹 Currently studying at Università degli studi di Padova in Italy
 - 📊 Specializing in Statistics and Deep Learning
-- 🏃‍♀️ I love running, dancing, and vlogging -> Check my YouTube Channel: https://www.youtube.com/@ranaislek
+- 🏃‍♀️ I love running, dancing, and vlogging -> <a href="https://www.youtube.com/@ranaislek" target="_blank">Click here to check my YouTube Channel!</a>
 
 ## Technologies & Tools
 - Python, SQL, R, C++
@@ -17,13 +17,11 @@
 - PostgreSQL, TensorFlow, PyTorch
 
 ## Projects
-- [Scholaria](https://github.com/yourusername/spotify-data-analysis)
-- [Used Car Auction Price Prediction](https://github.com/yourusername/chess-db-extension)
+- [Startup Project: Scholaria](https://github.com/ranaislek/Scholaria-Startup)
+- [Bachelor's Thesis: Bigger Fish](https://github.com/ranaislek/BiggerFish-Bachelors-Thesis)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - 📧 Email: islekrana@gmail.com
-
----
-
-Feel free to copy this directly into your GitHub profile README. It now includes the information about your studies in Padova with a touch of personalization!
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20px" /> Instagram: <a href="https://www.instagram.com/ranaislek/" target="_blank">ranaislek</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20px" /> YouTube: <a href="https://www.youtube.com/@ranaislek" target="_blank">ranaislek</a>
