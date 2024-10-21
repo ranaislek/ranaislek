@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rana (yeah, frog in Spanish/Italian) </h1>
+  <h1 align="center">Ciao! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rana (yeah, frog in Spanish/Italian) </h1>
   <img src="https://media.tenor.com/wuariwEtBXUAAAAM/tiny-green-frog-teeny-tiny-green-frog.gif"/>
 </div> 
 
