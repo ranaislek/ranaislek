@@ -13,9 +13,9 @@
 - 🏃‍♀️ I love running, dancing, and vlogging -> <a href="https://www.youtube.com/@ranaislek" target="_blank">Click here to check my YouTube Channel!</a>
 
 ## Technologies & Tools
-- Python, SQL, R, C++
-- Machine Learning, Deep Learning, Data Analysis
-- PostgreSQL, TensorFlow, PyTorch
+- Python, SQL, R, C++ ...
+- Machine Learning, Deep Learning, Data Analysis, Database Management ...
+- PostgreSQL, TensorFlow, PyTorch ... 
 
 ## Project Highlights
 - [Startup Project: Scholaria](https://github.com/ranaislek/Scholaria-Startup)
@@ -23,6 +23,6 @@
 
 ## Connect with Me
 - 📧 Email: islekrana@gmail.com
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" /> LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">yourlinkedin</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" /> LinkedIn: <a href="https://www.linkedin.com/in/ranaislek/" target="_blank">ranaislek</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20px" /> Instagram: <a href="https://www.instagram.com/ranaislek/" target="_blank">ranaislek</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20px" /> YouTube: <a href="https://www.youtube.com/@ranaislek" target="_blank">ranaislek</a>
