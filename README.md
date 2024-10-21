@@ -9,7 +9,7 @@
 - 🎓 Studied at Université libre de Bruxelles (ULB) and Universitat Politècnica de Catalunya (UPC)
 - 🇮🇹 Currently studying at Università degli studi di Padova in Italy
 - 📊 Specializing in Statistics and Deep Learning
-- 🏃‍♀️ I love running, dancing, and vlogging -> Check my YouTube Channel: https://www.youtube.com/ranaislek
+- 🏃‍♀️ I love running, dancing, and vlogging -> Check my YouTube Channel: https://www.youtube.com/@ranaislek
 
 ## Technologies & Tools
 - Python, SQL, R, C++
