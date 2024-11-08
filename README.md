@@ -13,9 +13,9 @@
 - 🏃‍♀️ I love running, dancing, and vlogging -> <a href="https://www.youtube.com/@ranaislek" target="_blank">Click here to check my YouTube Channel!</a>
 
 ## Technologies & Tools
-- Python, SQL, R, C++ ...
-- Machine Learning, Deep Learning, Data Analysis, Database Management ...
-- PostgreSQL, TensorFlow, PyTorch ... 
+- Python, SQL, R, C++, etc.
+- Machine Learning, Deep Learning, Data Analysis, Database Management, etc.
+- PostgreSQL, TensorFlow, PyTorch, etc.
 
 ## Project Highlights
 - [Startup Project: Scholaria](https://github.com/ranaislek/Scholaria-Startup)
