@@ -20,6 +20,7 @@
 ## Project Highlights
 - [Startup Project: Scholaria](https://github.com/ranaislek/Scholaria-Startup)
 - [Bachelor's Thesis: Bigger Fish](https://github.com/ranaislek/BiggerFish-Bachelors-Thesis)
+- [Bachelor's Internship: Product Analytics, Delivery Hero](https://github.com/ranaislek/Bachelors-Internship-Project)
 
 ## Connect with Me
 - 📧 Email: islekrana@gmail.com
